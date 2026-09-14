@@ -1,47 +1,108 @@
+<!--
+  README — Dev Legends
+  Tema: Azul Choque Neon
+
+  Paleta:
+    #050814  fundo escuro
+    #0047FF  azul choque (principal)
+    #3C82FF  azul claro (glow)
+    #00D4FF  ciano (destaque)
+-->
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0d13,35:7c3aed,100:a78bfa&height=280&section=header&text=Matheus%20Santana&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=criador%20do%20estuda%2B%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=20" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&pause=1200&color=7c3aed&center=true&vCenter=true&width=620&lines=construindo+o+estuda%2B+desde+2026;53+vers%C3%B5es+lan%C3%A7adas+e+contando;zero+framework+%C2%B7+zero+depend%C3%AAncias;offline-first+%C2%B7+PWA+%C2%B7+Android;feito+no+Brasil+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,35:0047FF,100:00D4FF&height=280&section=header&text=Dev%20Legends&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Breaking%20code.%20Building%20legends.&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 ---
 
-## 🚀 O que eu estou construindo
-
-**[estuda+](https://estuda-mais-p6do.onrender.com)** — o plano de estudos que aprende com o aluno. Feito pro fundamental e médio, **[abrir o app →](https://estuda-mais-p6do.onrender.com)**
-
-- 📋 plano do dia gerado pela IA a partir das matérias do aluno
-- 🧠 tutor com memória que ensina passo a passo, em português
-- 📚 biblioteca com clássicos na íntegra + tradução, e mangás
-- 📡 offline-first: funciona sem internet e sincroniza depois
-- 🔄 atualiza sozinho: instalou uma vez, nunca reinstala
-- 💰 sem anúncios, sem cadastro chato, sem cobrar nada de ninguém
-
+<!-- Apresentação -->
 <p align="center">
-  <img src="assets/01-inicio.png" width="200" alt="estuda+ — início"> <img src="assets/04-perfil.png" width="200" alt="estuda+ — perfil"> <img src="assets/07-galeria-temas.png" width="200" alt="estuda+ — galeria de temas">
+  <b>🌐 Squad de 3 &nbsp;|&nbsp; 🧑‍💻 Full-Stack &nbsp;|&nbsp; 🔥 Desde 2025</b>
 </p>
 
-## 📊 O projeto em números
-
 <p align="center">
-  <img src="https://img.shields.io/badge/app%20no%20ar-estuda--mais--p6do.onrender.com-22c55e">
-  <img src="https://img.shields.io/badge/vers%C3%B5es%20lan%C3%A7adas-53-7c3aed">
-  <img src="https://img.shields.io/badge/commits-211-22d3ee">
-  <img src="https://img.shields.io/badge/testes%20automatizados-285%2B-brightgreen">
-  <img src="https://img.shields.io/badge/depend%C3%AAncias-0-ff69b4">
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&pause=1000&color=0047FF&center=true&vCenter=true&width=600&lines=squad+de+3+devs+desde+2025;aprendendo+e+quebrando+coisas+juntos;full-stack+%2F%2F+bora+codar;web+%2F%2F+cyber+%2F%2F+tudo+um+pouco" alt="Typing SVG" />
 </p>
 
-## 🛠️ Como eu construo
-
-Node.js puro (zero framework, zero dependências) · HTML/CSS/JS na mão · PWA com service worker · testes e2e com Puppeteer · CI no GitHub Actions · deploy no Render
-
-## 🤝 Dev Legends
-
-Faço parte do **Dev Legends** — squad de amigos codando junto desde 2025. Full-stack, projetos de verdade e ninguém trava sozinho. 💥
+<p align="center">
+  <i>Breaking code. Building legends. 💥</i>
+</p>
 
 ---
 
-<p align="center">💜 feito no Brasil · <i>estuda+</i></p>
+## 💻 Quem somos
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;🌐 Grupo de amigos desde meados de 2025, aberto a quem quiser entrar<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🧑‍💻 Foco principal em <b>web</b>, mas rola de tudo um pouco<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🎯 Objetivo: aprender junto e criar projetos de verdade<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🔥 Vibe caótica, sem hierarquia rígida
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/5pN6JHbyJtUAAAAd/scenery-the-witcher.gif" width="100%" height="150" style="object-fit: cover;" />
+</p>
+
+---
+
+## 🚀 O que a gente faz
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Projetos individuais, cada um no seu ritmo<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Projetos colaborativos, no mesmo repositório<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Desafios internos de código<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Trocamos dúvida o tempo todo, ninguém trava sozinho
+</p>
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0047FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-3C82FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-00D4FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0047FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-3C82FF?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-00D4FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+---
+
+## 🤝 Como entrar
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;Já sabe o básico e topa a vibe caótica? Manda um e-mail lá embaixo.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Regra número 1: respeito sempre. Fora isso, é código, meme e aprendizado.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Projetos colaborativos seguem fluxo de <b>Pull Requests</b> — ninguém commita direto na main.
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:Devlegendsprime@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0047FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Discord em breve 👀</sub>
+</p>
+
+---
+
+<!-- Rodapé -->
+<p align="center">
+  <b>Valeu por passar por aqui! 💙</b>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/7neBIQCR4SkAAAAC/mario-64-mario-kart-64.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,35:0047FF,100:050814&height=100&section=footer" width="100%" />
+</p>
